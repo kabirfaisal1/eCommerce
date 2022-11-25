@@ -4,6 +4,9 @@
   * [Walk through Video](#walk-through-Video)
   * [Git Repo](#git-repo)
   * [Dependency](#dependency)
+    * [System](#system) 
+    * [On project](#on-project) 
+    * [Artifact](#artifact) 
   * [User Story](#user-story)
   * [Acceptance Criteria](#acceptance-criteria)
   * [Application Invoked](#application-invoked)
@@ -15,14 +18,15 @@
 
 # [Git Repo](#table-of-contents)
 ```
+https://github.com/kabirfaisal1/eCommerce.git
 
 ```
 # [Dependency](#table-of-contents)
-  ## System
+  ## [System](#table-of-contents)
   ```
       node.js
   ```
-  ## On project
+  ## [On project](#table-of-contents)
   ```
   npm init
 ```
@@ -34,7 +38,7 @@
   npm install dotenv
 
   ```
-  ## Artifact
+  ## [Artifact](#table-of-contents)
   * create .env file and enter following code
   ```
   DB_NAME='ecommerce_db'
@@ -77,8 +81,6 @@ Enter PW when promted
   
 `npm start`
 
-
-## [Table Describe](#table-of-contents)
 
 
 ## Node and NPM Doc
